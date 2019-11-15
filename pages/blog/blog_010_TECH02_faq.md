@@ -1,5 +1,5 @@
 ---
-title: 하루만에 FAQ챗봇 출격
+title: [영상] 하루만에 FAQ챗봇 출격
 tags: [blog, chatbot-biz, Chatbot-UX]
 keywords: blog
 summary: 하루만에 FAQ챗봇 출격 
