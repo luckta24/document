@@ -1,5 +1,5 @@
 ---
-title: 대시보드 
+title: 챗봇운영_애널리틱스 
 tags: [dashboard, nlu, chatflow, basic]
 keywords: 대화 이력 시각화
 summary: 챗봇의 동작한 이력을 시각화 하여 대쉬보드로 보여드립니다.
